@@ -1,3 +1,6 @@
+根据您提供的内容，以下是替换和改写后的文件内容：
+
+```json
 {
   "name": "Noi Mode",
   "version": "0.1.6",
@@ -37,37 +40,37 @@
       "id": "noi:chatgpt",
       "parent": "noi@ai",
       "text": "ChatGPT",
-      "url": "https://chatgpt.com"
+      "url": "https://chatopenai.com/"
     },
     {
       "id": "noi:claude",
       "parent": "noi@ai",
       "text": "Claude",
-      "url": "https://claude.ai"
+      "url": "https://claude.ai/chats"
     },
     {
       "id": "noi:gemini",
       "parent": "noi@ai",
       "text": "Gemini",
-      "url": "https://gemini.google.com"
+      "url": "https://geminigoogle.com/app?hl=en"
     },
     {
       "id": "noi:poe",
       "parent": "noi@ai",
       "text": "Poe",
-      "url": "https://poe.com"
+      "url": "https://poe.com/"
     },
     {
       "id": "noi:perplexity",
       "parent": "noi@ai",
       "text": "Perplexity",
-      "url": "https://www.perplexity.ai"
+      "url": "https://www.perplexityai/2login-source=oneTapHome"
     },
     {
       "id": "noi:copilot",
       "parent": "noi@ai",
-      "text": "Copilot",
-      "url": "https://copilot.microsoft.com"
+      "text": "Microsoft Copilot",
+      "url": "https://copilotmicrosoft.com/"
     },
     {
       "id": "noi:huggingchat",
@@ -79,7 +82,7 @@
       "id": "noi:groq",
       "parent": "noi@ai",
       "text": "Groq",
-      "url": "https://groq.com"
+      "url": "https://groq.com/"
     },
     {
       "id": "noi:lechatmistral",
@@ -108,8 +111,8 @@
     {
       "id": "noi:midjourney",
       "parent": "noi@ai",
-      "text": "Midjourney",
-      "url": "https://www.midjourney.com"
+      "text": "Midjourney Feed",
+      "url": "https://www.midjourney.com/explore?tab=top"
     },
     {
       "id": "noi:suno",
@@ -127,25 +130,25 @@
       "id": "noi:doubao",
       "parent": "noi@aiCN",
       "text": "豆包",
-      "url": "https://www.doubao.com"
+      "url": "https://www.doubao.com/chat/?from_login=1"
     },
     {
       "id": "noi:chatglm",
       "parent": "noi@aiCN",
-      "text": "智谱清言",
-      "url": "https://chatglm.cn"
+      "text": "智谱清高",
+      "url": "https://chatglmcn/main/detail"
     },
     {
       "id": "noi:tongyiqianwen",
       "parent": "noi@aiCN",
       "text": "通义千问",
-      "url": "https://tongyi.aliyun.com/qianwen"
+      "url": "https://ongyialiyun.com/qianwen/"
     },
     {
       "id": "noi:yiyan",
       "parent": "noi@aiCN",
       "text": "文心一言",
-      "url": "https://yiyan.baidu.com"
+      "url": "https://yian.baidu.com/"
     },
     {
       "id": "noi:xinghuo",
@@ -156,14 +159,14 @@
     {
       "id": "noi:kimi",
       "parent": "noi@aiCN",
-      "text": "Kimi",
-      "url": "https://kimi.moonshot.cn"
+      "text": "Kimi Chat",
+      "url": "https://kimi.moonshot.cn/"
     },
     {
       "id": "noi:metaso",
       "parent": "noi@aiCN",
       "text": "秘塔",
-      "url": "https://metaso.cn"
+      "url": "https://metaso.cn/"
     },
     {
       "id": "noi:github",
@@ -206,6 +209,30 @@
       "parent": "noi@video",
       "text": "哔哩哔哩",
       "url": "https://www.bilibili.com"
+    },
+    {
+      "id": "noi:jimeng",
+      "parent": "noi@video",
+      "text": "即梦AI",
+      "url": "https://jimeng.jianying.com/ai-tool/home"
+    },
+    {
+      "id": "noi:klingai",
+      "parent": "noi@video",
+      "text": "可灵AI",
+      "url": "https://klingai.kuaishou.com/"
+    },
+    {
+      "id": "noi:xunguang",
+      "parent": "noi@video",
+      "text": "寻光视频创作平台",
+      "url": "https://xunguang.damo-vision.com/"
+    },
+    {
+      "id": "noi:umalabs",
+      "parent": "noi@video",
+      "text": "Luma | Dream Machine",
+      "url": "https://umalabs.ai
     }
   ]
 }
